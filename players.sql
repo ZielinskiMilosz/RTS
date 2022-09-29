@@ -1,5 +1,5 @@
 INSERT INTO players (nick, email, password) VALUES ("tytus", "tytus@wp.pl", "tytus123")
-INSERT INTO players (nick, email, password)) VALUES ("romek", "romuald23@gmail.com", "RomanOwicz333")
+INSERT INTO players (nick, email, password) VALUES ("romek", "romuald23@gmail.com", "RomanOwicz333")
 INSERT INTO players (nick, email, password) VALUES ("Agatka", "AgAtA69@wp.pl", "x123x321x")
 INSERT INTO players (nick, email, password) VALUES ("Bonio55", "Bonifacy.Okr@gmail.com", "Mastermind")
 INSERT INTO villages (player id, name , x, z) VALUES ("1", "tytus")
